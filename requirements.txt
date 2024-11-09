@@ -7,4 +7,3 @@ scipy
 empath
 gensim
 python-ternary
-vocabulary_analyzer

@@ -15,4 +15,4 @@ This project provides a character analysis tool designed to perform natural lang
 
 ## Future Work
 
-I have lots of issues with torchMoji so it is not implemented as I originally planned. On raport there is more explanation task is done. There is too error in a triangle-based illustration on sentiments, but sentiment scores can be seen print.
+I have encountered several issues with torchMoji, and it has not been implemented as originally planned. The report provides further explanation, and the task has been completed. There is an error in the triangle-based illustration of sentiments, but the sentiment scores can still be seen when printed.
