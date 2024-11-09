@@ -1,0 +1,9 @@
+# Ignore virtual environments
+my_env/
+
+# Ignore common Python files and directories
+src/__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+gitt

@@ -1,0 +1,10 @@
+pandas
+nltk
+numpy
+matplotlib
+scikit-learn
+scipy
+empath
+gensim
+python-ternary
+vocabulary_analyzer
