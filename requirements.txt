@@ -6,4 +6,4 @@ scikit-learn
 scipy
 empath
 gensim
-python-ternary
+ternary
